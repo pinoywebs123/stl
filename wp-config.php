@@ -47,7 +47,7 @@ define( 'DB_NAME', "stalinks_db" );
 
 /** MySQL database username */
 
-define( 'DB_USER', "root" );
+define( 'DB_USER', "stalinks_dev" );
 
 
 /** MySQL database password */
@@ -148,6 +148,7 @@ $table_prefix = 'wp_';
  */
 
 define( 'WP_DEBUG', false );
+define('FS_METHOD','direct');
 
 
 /* That's all, stop editing! Happy publishing. */
