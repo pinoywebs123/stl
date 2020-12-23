@@ -1,0 +1,4 @@
+[31-Jul-2020 01:09:02 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/stalinksqwe/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 08:16:00 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/stalinksqwe/public_html/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Aug-2020 09:59:04 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/stalinksqwe/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[01-Aug-2020 09:59:09 UTC] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/stalinksqwe/public_html/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

@@ -1,0 +1,4 @@
+[28-Feb-2020 07:16:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 212992 bytes) in /home/stalinksqwe/public_html/piwik/vendor/leafo/lessphp/lessc.inc.php on line 1903
+[28-Feb-2020 07:17:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 212992 bytes) in /home/stalinksqwe/public_html/piwik/vendor/leafo/lessphp/lessc.inc.php on line 1903
+[27-Aug-2020 07:23:02 UTC] Error in Matomo (tracker): SQLSTATE[HY000] [1045] Access denied for user 'stalinks_padmin'@'localhost' (using password: YES)
+[27-Aug-2020 07:28:45 UTC] Error in Matomo: Cannot connect to the database:  SQLSTATE[HY000] [1045] Access denied for user &#039;stalinks_padmin&#039;@&#039;localhost&#039; (using password: YES)  This may be a temporary issue, try refreshing the page. If the problem persists please contact your Matomo administrator.

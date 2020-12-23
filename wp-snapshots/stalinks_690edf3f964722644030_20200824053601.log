@@ -1,0 +1,16 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: August 24, 2020 5:53 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.3.22
+WORDPRESS:	5.2.7
+PHP INFO:	7.1.33 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1G default) 
+MEMORY STACK: 38MB
+[PHP ERR][NOTICE] MSG:Undefined variable: parent [CODE:8|FILE:/home/stalinksqwe/public_html/wp-content/themes/Your Site/functions.php|LINE:268]
+#0  DUP_Handler::getMessage(8, Undefined variable: parent, /home/stalinksqwe/public_html/wp-content/themes/Your Site/functions.php, 268) called at [/home/stalinksqwe/public_html/wp-content/plugins/duplicator/classes/class.logging.php:421]
+#1  DUP_Handler::error(8, Undefined variable: parent, /home/stalinksqwe/public_html/wp-content/themes/Your Site/functions.php, 268) called at [/home/stalinksqwe/public_html/wp-content/plugins/duplicator/classes/class.logging.php:528]
+#2  DUP_Handler::shutdown()
+
